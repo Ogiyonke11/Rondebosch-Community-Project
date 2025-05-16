@@ -1,1 +1,7 @@
-# Rondebosch-Community-Project
+# Rondebosch-Community-Project 
+The Rondebosch community has decided to come together and hold a monthly mass funding sale for spaza shops located in Cape Metropole. The sale is done in the last week of each month. The sale provides spaza shop owners with a discount rate that is said to be lower than discounted shops. For example, all vegetable types are charged the sane price, a standard R5 regardless of whether it is tomatoes, spinach etc. The Rondebosch community requires a program that will allow their administrator to take an order from a Spaza shop owner via telephone. The community does not yet have resources to allow the system to go live. Here is how to work:
+A Spaza shop owner calls in and provides the following information to the administrator who is capturing the information into the system. The information required from the spaza shop owner is:
+• their personal information (name and telephone)
+• The spaza shop owner is to confirm that they are a spaza shop owner.
+o If they are not a spaza shop owner, they are notified that: This seasonal sale is for spaza shop only. We thank you for your interest in our program but if you are not a spaza shop owner, we cannot provide you with any assistance. After the administrator gives this information, the program should not display any further controls. The form should be cleared up for the next spaza shop owner and the cursor focused on the Customer Name.
+o If the customer is a spaza shop owner, the system makes visible to the administrator the catalogue items, to allow them to select an item; and allows them to capture the quantity of the items. A spaza shop owner can only have a maximum of 20 units/quantity.
